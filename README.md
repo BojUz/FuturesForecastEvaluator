@@ -4,6 +4,8 @@ will be 54,44 euro for example and the price of the futures is 50,44 euro. In th
 is exactly like the forecast value wich is 54,44 wich means we made a profit of 4 euro. The program also searches for the best difference in days between the current day and the forecast and also
 searches for the most profitable margin buffer between the forecast and futures. For example lets say the buffer is 5 euro wich means that if the difference between forecast and futures is less than
 5 euro it will not give BUY/SELL signal it will just HOLD.
+![Screenshot_1](https://github.com/user-attachments/assets/1fa1a3e9-7917-426d-93aa-bf4ca219d7b5)
+
 
 The program also makes a graph and searches for corelation between absolute value of the difference between futures and forecast and the actual profit from the trade.
 
